@@ -2,7 +2,7 @@ Hi there 👋 I'm Ammar Almuain!
 A passionate and results-driven developer focused on building robust, scalable, and user-centric applications. I thrive on complex challenges and continuously expand my expertise in modern web and mobile development.
 
 🚀 About Me
-I'm Ammar Almuain, a 21-year-old developer from Iraq, living in Turkey. My passion for coding drives me to bring ideas to life, constantly learning and adapting to new frameworks and languages like Java, Python, and C#. I excel under pressure, enjoying hackathons and projects with tight deadlines. My skills in JavaScript (JS) and TypeScript (TS) form my core, significantly enhanced by a Recoded Backend Bootcamp. I'm dedicated to creating high-performance applications with intuitive user experiences.
+I'm a 21-year-old developer from Iraq, living in Turkey. My passion for coding drives me to bring ideas to life, constantly learning and adapting to new frameworks and languages like Java, Python, and C#. I excel under pressure, enjoying hackathons and projects with tight deadlines. My skills in JavaScript (JS) and TypeScript (TS) form my core, significantly enhanced by a Recoded Backend Bootcamp. I'm dedicated to creating high-performance applications with intuitive user experiences.
 
 🛠️ My Toolkit
 Here are some of the technologies and tools I enjoy working with:

@@ -32,9 +32,3 @@ University Project Recognition: Commended for the Modbus TCP Client, a project e
 
 🤝 Let's Connect!
 I'm always open to collaborating on interesting projects or discussing new technologies.
-
-GitHub: AmmarAlmuain
-
-Medium: @AmmarAlmuain
-
-Linkedin: AmmarAlmuain 
